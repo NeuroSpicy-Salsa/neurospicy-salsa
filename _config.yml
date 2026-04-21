@@ -10,4 +10,3 @@ baseurl: "/neurospicy-salsa"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
