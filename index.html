@@ -20,23 +20,25 @@ layout: compress
         .header {
             padding: 4em 5% 3em;
             display: flex;
-            align-items: center; /* Vertically aligns logo with the text block */
+            align-items: center; 
             justify-content: center;
-            gap: 40px; /* Space between logo and text block */
+            /* Bringing the gap down to 10px - you can change this to 0px if you want them touching! */
+            gap: 10px; 
         }
 
-        /* The BIG Logo */
         .site-logo {
-            max-width: 320px; /* **ULTRA LARGE LOGO** */
+            max-width: 320px; 
             height: auto;
-            flex-shrink: 0; /* Prevents logo from shrinking on smaller screens */
+            flex-shrink: 0;
+            margin: 0; /* Ensures no invisible margin around the logo */
         }
 
-        /* Container for the Title + Tagline */
         .text-lockup {
             display: flex;
             flex-direction: column;
-            text-align: left; /* Aligns tagline to the start of the title */
+            text-align: left;
+            /* This moves the text slightly to the left to "hug" the logo */
+            margin-left: -10px; 
         }
 
         .header h1 {
@@ -44,9 +46,10 @@ layout: compress
             font-weight: 400;
             text-transform: uppercase; 
             color: #000000;
-            font-size: 4.5em; /* Bold, punchy title */
+            font-size: 4.5em; 
             margin: 0;
-            line-height: 0.9;
+            padding: 0;
+            line-height: 0.85; /* Tighter line height to bring the title and tagline together */
         }
 
         .tagline {
@@ -56,14 +59,14 @@ layout: compress
             color: #000000;
             opacity: 0.85;
             text-transform: uppercase;
-            margin-top: 5px; /* Tight space under the main title */
+            margin: 0;
+            padding: 0;
         }
 
-        /* Mobile adjustment */
         @media (max-width: 850px) {
-            .header { flex-direction: column; text-align: center; gap: 20px; }
-            .text-lockup { text-align: center; }
-            .header h1 { font-size: 3.5em; }
+            .header { flex-direction: column; text-align: center; gap: 10px; }
+            .text-lockup { text-align: center; margin-left: 0; }
+            .header h1 { font-size: 3.2em; }
             .site-logo { max-width: 220px; }
         }
 
