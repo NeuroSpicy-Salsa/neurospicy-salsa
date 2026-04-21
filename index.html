@@ -18,24 +18,25 @@ layout: compress
 
     <style>
         .header {
-            padding: 3em 5% 2em;
+            padding: 4em 5% 3em;
             display: flex;
-            flex-direction: column; /* Stacks the top row and the tagline */
-            align-items: center; 
+            align-items: center; /* Vertically aligns logo with the text block */
             justify-content: center;
+            gap: 40px; /* Space between logo and text block */
         }
 
-        /* This container keeps the Logo and Title side-by-side */
-        .header-top-row {
-            display: flex;
-            align-items: center;
-            gap: 20px; /* Space between logo and NeuroSpicy Salsa */
-            margin-bottom: 10px; /* Space above the tagline */
-        }
-
+        /* The BIG Logo */
         .site-logo {
-            max-width: 140px; /* Sized to sit nicely next to the text */
+            max-width: 320px; /* **ULTRA LARGE LOGO** */
             height: auto;
+            flex-shrink: 0; /* Prevents logo from shrinking on smaller screens */
+        }
+
+        /* Container for the Title + Tagline */
+        .text-lockup {
+            display: flex;
+            flex-direction: column;
+            text-align: left; /* Aligns tagline to the start of the title */
         }
 
         .header h1 {
@@ -43,26 +44,27 @@ layout: compress
             font-weight: 400;
             text-transform: uppercase; 
             color: #000000;
-            font-size: 3.5em; /* Big and bold next to the logo */
+            font-size: 4.5em; /* Bold, punchy title */
             margin: 0;
-            line-height: 1;
+            line-height: 0.9;
         }
 
-        /* The Tagline sitting underneath everything */
         .tagline {
             font-family: 'Protest Revolution', sans-serif !important;
             font-size: 1.2em; 
-            letter-spacing: 2px;
+            letter-spacing: 1.5px;
             color: #000000;
             opacity: 0.85;
             text-transform: uppercase;
-            margin-top: 5px;
-            text-align: center;
+            margin-top: 5px; /* Tight space under the main title */
         }
 
-        @media (max-width: 650px) {
-            .header-top-row { flex-direction: column; text-align: center; }
-            .header h1 { font-size: 2.5em; }
+        /* Mobile adjustment */
+        @media (max-width: 850px) {
+            .header { flex-direction: column; text-align: center; gap: 20px; }
+            .text-lockup { text-align: center; }
+            .header h1 { font-size: 3.5em; }
+            .site-logo { max-width: 220px; }
         }
 
         .body { font-family: 'Open Sans', sans-serif !important; }
@@ -71,12 +73,12 @@ layout: compress
 <body class="body">
 <div class="container">
     <header class="header">
-        <div class="header-top-row">
-            <img src="https://neurospicy-salsa.github.io/neurospicy-salsa/img/SpicySalsa.png" alt="Logo" class="site-logo">
-            <h1>NeuroSpicy Salsa</h1>
-        </div>
+        <img src="https://neurospicy-salsa.github.io/neurospicy-salsa/img/SpicySalsa.png" alt="Logo" class="site-logo">
         
-        <p class="tagline">Extra Heat, Better Seasoning. No Apologies.</p>
+        <div class="text-lockup">
+            <h1>NeuroSpicy Salsa</h1>
+            <p class="tagline">Extra Heat, Better Seasoning. No Apologies.</p>
+        </div>
     </header>
 
     <div class="content">
