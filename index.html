@@ -23,7 +23,7 @@ layout: compress
 
     <style>
         .header {
-            padding: 2.5em 10% 1.5em;
+            padding: 4em 10% 2em; /* Gives the larger logo room to breathe */
             text-align: center;
         }
 
@@ -32,26 +32,27 @@ layout: compress
             font-family: 'Protest Revolution', sans-serif !important;
             font-weight: 400;
             text-transform: uppercase; 
-            margin-top: 15px;
+            margin-top: 25px; /* Added space between big logo and big text */
             color: #000000;
-            font-size: 2.2em; /* Slightly smaller title */
+            font-size: 2.5em; /* Re-sized for balance */
             letter-spacing: 2px;
         }
 
-        /* Unified Tagline: Protest Revolution in Black */
+        /* Unified Tagline: Protest Revolution in Black, lowercase */
         .header h1 span {
             font-family: 'Protest Revolution', sans-serif !important;
             display: block;
-            font-size: 0.4em; /* Scaled down tagline */
-            margin-top: 10px;
+            font-size: 0.45em; /* Re-sized tagline */
+            margin-top: 15px;
             letter-spacing: 1px;
-            color: #000000;
-            opacity: 0.85;
-            text-transform: uppercase;
+            color: #000000; /* Unified to black */
+            opacity: 0.9;
+            text-transform: none; /* Changed to lowercase/sentence case for readability */
         }
 
+        /* The BIG Logo Styling */
         .site-logo {
-            max-width: 200px; /* Slightly smaller logo to match the vibe */
+            max-width: 350px; /* **SIGNIFICANTLY LARGER LOGO** (was 200px) */
             height: auto;
             display: block;
             margin: 0 auto;
