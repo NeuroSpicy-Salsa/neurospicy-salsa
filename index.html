@@ -18,11 +18,12 @@ layout: compress
 
     <style>
         /* Ensures the footer doesn't bleed into the blog post background */
-        body.view-contents .homepage-only {
-            display: none !important;
-            visibility: hidden !important;
-            opacity: 0 !important;
-        }
+   body.view-contents #manifesto-footer {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    overflow: hidden !important;
+}
 
         .header {
             padding: 4em 5% 3em;
@@ -121,7 +122,7 @@ layout: compress
     </div> 
 </div> 
 
-<footer class="homepage-only" style="text-align: center; padding: 60px 20px 80px; clear: both; width: 100%;">
+<footer id="manifesto-footer" class="homepage-only" style="text-align: center; padding: 60px 20px 80px; clear: both; width: 100%;">
     <h2 style="font-family: 'Protest Revolution', sans-serif !important; font-size: 1.3em; color: #333; text-transform: uppercase; margin-bottom: 8px; letter-spacing: 1px;">
         Not Broken. Nothing to fix. Just a different operating system.
     </h2>
