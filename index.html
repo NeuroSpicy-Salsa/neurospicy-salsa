@@ -1,60 +1,127 @@
-<footer class="site-footer">
-        <div class="quote-container">
-            <p class="final-quote">Not Broken. Nothing to fix. Just a different operating system.</p>
-            <p class="elevate-insight">Embracing differences only elevates those around you and yourself.</p>
-            <span class="quote-tagline">— The NeuroSpicy Salsa Manifesto —</span>
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head>
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title }}</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="css/normalize.css"/>
+    <link rel="stylesheet" type="text/css" href="css/modern-blog.css"/>
+
+    <style>
+        .header {
+            padding: 4em 5% 3em;
+            display: flex;
+            align-items: center; /* Vertically aligns logo with the text block */
+            justify-content: center;
+            gap: 40px; /* Space between logo and text block */
+        }
+
+        /* The BIG Logo */
+        .site-logo {
+            max-width: 320px; /* **ULTRA LARGE LOGO** */
+            height: auto;
+            flex-shrink: 0; /* Prevents logo from shrinking on smaller screens */
+        }
+
+        /* Container for the Title + Tagline */
+        .text-lockup {
+            display: flex;
+            flex-direction: column;
+            text-align: left; /* Aligns tagline to the start of the title */
+        }
+
+        .header h1 {
+            font-family: 'Protest Revolution', sans-serif !important;
+            font-weight: 400;
+            text-transform: uppercase; 
+            color: #000000;
+            font-size: 4.5em; /* Bold, punchy title */
+            margin: 0;
+            line-height: 0.9;
+        }
+
+        .tagline {
+            font-family: 'Protest Revolution', sans-serif !important;
+            font-size: 1.2em; 
+            letter-spacing: 1.5px;
+            color: #000000;
+            opacity: 0.85;
+            text-transform: uppercase;
+            margin-top: 5px; /* Tight space under the main title */
+        }
+
+        /* Mobile adjustment */
+        @media (max-width: 850px) {
+            .header { flex-direction: column; text-align: center; gap: 20px; }
+            .text-lockup { text-align: center; }
+            .header h1 { font-size: 3.5em; }
+            .site-logo { max-width: 220px; }
+        }
+
+        .body { font-family: 'Open Sans', sans-serif !important; }
+    </style>
+</head>
+<body class="body">
+<div class="container">
+    <header class="header">
+        <img src="https://neurospicy-salsa.github.io/neurospicy-salsa/img/SpicySalsa.png" alt="Logo" class="site-logo">
+        
+        <div class="text-lockup">
+            <h1>NeuroSpicy Salsa</h1>
+            <p class="tagline">Extra Heat, Better Seasoning. No Apologies.</p>
         </div>
-    </footer>
+    </header>
 
-<style>
-    .site-footer {
-        padding: 80px 10% 100px;
-        text-align: center;
-    }
+    <div class="content">
+        <div class="pattern pattern--hidden"></div>
+        <div class="wrapper">
+            {% for post in site.posts %}
+            <div class="card" data-id="{{ post.id }}">
+                <div class="card__container card__container--closed">
+                    <svg class="card__image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1200" preserveAspectRatio="xMidYMid slice">
+                        <defs>
+                            <clipPath id="{{ post.id }}-clip-path">
+                                <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
+                            </clipPath>
+                        </defs>
+                        <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200" xlink:href="{{ post.image }}"></image>
+                    </svg>
+                    <div class="card__content">
+                        <i class="card__btn-close fa fa-times"></i>
+                        <div class="card__caption">
+                            <h2 class="card__title">{{ post.title }}</h2>
+                            <p class="card__subtitle">{{ post.subtitle }}</p>
+                        </div>
+                        <div class="card__copy">
+                            <div class="meta">
+                                <img class="meta__avatar" src="{{ post.avatar }}"/>
+                                <span class="meta__author">{{ post.author }}</span>
+                                <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
+                            </div>
+                            {{ post.content }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+</div>
 
-    .quote-container {
-        max-width: 850px;
-        margin: 0 auto;
-    }
-
-    .quote-container::before {
-        content: "";
-        display: block;
-        width: 40px;
-        height: 3px;
-        background: #000;
-        margin: 0 auto 35px;
-    }
-
-    /* The Bold Header Quote */
-    .final-quote {
-        font-family: 'Protest Revolution', sans-serif !important;
-        font-size: 2em;
-        color: #000;
-        line-height: 1.2;
-        margin-bottom: 15px;
-        letter-spacing: 1px;
-        text-transform: uppercase;
-    }
-
-    /* The Insightful Sub-Quote */
-    .elevate-insight {
-        font-family: 'Open Sans', sans-serif;
-        font-size: 1.1em;
-        font-weight: 400;
-        font-style: italic;
-        color: #333;
-        margin-bottom: 25px;
-        line-height: 1.5;
-    }
-
-    .quote-tagline {
-        font-family: 'Open Sans', sans-serif;
-        font-weight: 800;
-        text-transform: uppercase;
-        font-size: 0.7em;
-        letter-spacing: 4px;
-        color: #000;
-        opacity: 0.4;
-    }
-</style>
+<script src="js/vendors/trianglify.min.js"></script>
+<script src="js/vendors/TweenMax.min.js"></script>
+<script src="js/vendors/ScrollToPlugin.min.js"></script>
+<script src="js/vendors/cash.min.js"></script>
+<script src="js/card-modern-blog.js"></script>
+<script src="js/modern-blog.js"></script>
+</body>
+</html>
