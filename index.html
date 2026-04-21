@@ -22,23 +22,24 @@ layout: compress
             display: flex;
             align-items: center; 
             justify-content: center;
-            /* Bringing the gap down to 10px - you can change this to 0px if you want them touching! */
-            gap: 10px; 
+            /* We set the gap to 0 because we're using margin for total control */
+            gap: 0px; 
         }
 
         .site-logo {
             max-width: 320px; 
             height: auto;
             flex-shrink: 0;
-            margin: 0; /* Ensures no invisible margin around the logo */
+            z-index: 2; /* Keeps logo on top if they overlap */
         }
 
         .text-lockup {
             display: flex;
             flex-direction: column;
             text-align: left;
-            /* This moves the text slightly to the left to "hug" the logo */
-            margin-left: -10px; 
+            /* ADJUST THIS NUMBER: -40px pulls it closer, -60px even closer */
+            margin-left: -50px; 
+            z-index: 1;
         }
 
         .header h1 {
@@ -49,7 +50,7 @@ layout: compress
             font-size: 4.5em; 
             margin: 0;
             padding: 0;
-            line-height: 0.85; /* Tighter line height to bring the title and tagline together */
+            line-height: 0.8;
         }
 
         .tagline {
@@ -59,7 +60,7 @@ layout: compress
             color: #000000;
             opacity: 0.85;
             text-transform: uppercase;
-            margin: 0;
+            margin: 5px 0 0 0;
             padding: 0;
         }
 
