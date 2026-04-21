@@ -5,3 +5,9 @@ keywords: neurodivergent, ADHD, autism spectrum, parenting, neurodiverse career,
 author: Mal
 logo: /img/NeuroSpice.png
 favicon: /img/IconNeuro.png the base hostname & protocol for your site
+url: "https://neurospicy-salsa.github.io"
+baseurl: "/neurospicy-salsa"
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal
