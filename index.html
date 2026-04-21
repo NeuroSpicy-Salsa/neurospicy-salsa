@@ -8,76 +8,75 @@ layout: compress
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ site.title }}</title>
-    <meta name="description" content="{{ site.description }}"/>
-    <meta name="keywords" content="{{ site.keywords }}"/>
-    <meta name="author" content="{{ site.author }}"/>
     
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Life+Savers:wght@400;700;800&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Protest+Revolution&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 
-    <link rel="shortcut icon" href="img/favicon.ico">
     <link rel="stylesheet" type="text/css" href="css/normalize.css"/>
-    <link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css"/>
     <link rel="stylesheet" type="text/css" href="css/modern-blog.css"/>
 
     <style>
         .header {
-            padding: 4em 10% 2em; /* Gives the larger logo room to breathe */
-            text-align: center;
+            padding: 3em 5% 2em;
+            display: flex;
+            flex-direction: column; /* Stacks the top row and the tagline */
+            align-items: center; 
+            justify-content: center;
         }
 
-        /* Unified Title: Protest Revolution in Black */
+        /* This container keeps the Logo and Title side-by-side */
+        .header-top-row {
+            display: flex;
+            align-items: center;
+            gap: 20px; /* Space between logo and NeuroSpicy Salsa */
+            margin-bottom: 10px; /* Space above the tagline */
+        }
+
+        .site-logo {
+            max-width: 140px; /* Sized to sit nicely next to the text */
+            height: auto;
+        }
+
         .header h1 {
             font-family: 'Protest Revolution', sans-serif !important;
             font-weight: 400;
             text-transform: uppercase; 
-            margin-top: 25px; /* Added space between big logo and big text */
             color: #000000;
-            font-size: 2.5em; /* Re-sized for balance */
-            letter-spacing: 2px;
+            font-size: 3.5em; /* Big and bold next to the logo */
+            margin: 0;
+            line-height: 1;
         }
 
-        /* Unified Tagline: Protest Revolution in Black, lowercase */
-        .header h1 span {
+        /* The Tagline sitting underneath everything */
+        .tagline {
             font-family: 'Protest Revolution', sans-serif !important;
-            display: block;
-            font-size: 0.45em; /* Re-sized tagline */
-            margin-top: 15px;
-            letter-spacing: 1px;
-            color: #000000; /* Unified to black */
-            opacity: 0.9;
-            text-transform: none; /* Changed to lowercase/sentence case for readability */
+            font-size: 1.2em; 
+            letter-spacing: 2px;
+            color: #000000;
+            opacity: 0.85;
+            text-transform: uppercase;
+            margin-top: 5px;
+            text-align: center;
         }
 
-        /* The BIG Logo Styling */
-        .site-logo {
-            max-width: 350px; /* **SIGNIFICANTLY LARGER LOGO** (was 200px) */
-            height: auto;
-            display: block;
-            margin: 0 auto;
+        @media (max-width: 650px) {
+            .header-top-row { flex-direction: column; text-align: center; }
+            .header h1 { font-size: 2.5em; }
         }
 
-        .body {
-            font-family: 'Open Sans', sans-serif !important;
-        }
+        .body { font-family: 'Open Sans', sans-serif !important; }
     </style>
-
-    <script>
-        if (navigator.userAgent.toLowerCase().indexOf('firefox') > -1) {
-            var root = document.getElementsByTagName('html')[0];
-            root.setAttribute('class', 'ff');
-        }
-    </script>
 </head>
 <body class="body">
 <div class="container">
     <header class="header">
-        <img src="https://neurospicy-salsa.github.io/neurospicy-salsa/img/SpicySalsa.png" alt="NeuroSpicy Salsa Logo" class="site-logo">
+        <div class="header-top-row">
+            <img src="https://neurospicy-salsa.github.io/neurospicy-salsa/img/SpicySalsa.png" alt="Logo" class="site-logo">
+            <h1>NeuroSpicy Salsa</h1>
+        </div>
         
-        <h1> NeuroSpicy Salsa 
-            <span> Extra Heat, Better Seasoning. No Apologies. </span>
-        </h1>
+        <p class="tagline">Extra Heat, Better Seasoning. No Apologies.</p>
     </header>
 
     <div class="content">
@@ -86,16 +85,13 @@ layout: compress
             {% for post in site.posts %}
             <div class="card" data-id="{{ post.id }}">
                 <div class="card__container card__container--closed">
-                    <svg class="card__image" xmlns="http://www.w3.org/2000/svg"
-                         xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1200"
-                         preserveAspectRatio="xMidYMid slice">
+                    <svg class="card__image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1200" preserveAspectRatio="xMidYMid slice">
                         <defs>
                             <clipPath id="{{ post.id }}-clip-path">
                                 <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
                             </clipPath>
                         </defs>
-                        <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200"
-                               xlink:href="{{ post.image }}"></image>
+                        <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200" xlink:href="{{ post.image }}"></image>
                     </svg>
                     <div class="card__content">
                         <i class="card__btn-close fa fa-times"></i>
