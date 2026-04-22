@@ -42,9 +42,10 @@ I spent hours in the bathroom mirror practicing my facial expressions, scripts. 
 
 But inside, there was a violent tug-of-war. My ADHD was a chaotic fire, but my Autistic side was desperately trying to build a brick wall of routine and sameness just to feel safe. When that wall inevitably crumbled because of the chaos at home, I was the one who was punished for the "mess." 
 
-Mac saw my grandmother. She saw that Grandma wasn't just a grandparent—she was my mom. She saw the way Grandma was the exact opposite of the chaos: calm, patient, and loving. In my eyes, and in my grandmother’s eyes, that was the only "mother" bond that mattered. 
+Mac saw all of it, my mother and my grandmother. She saw that Grandma wasn't just a grandparent—she was my mom. She saw the way Grandma was the exact opposite of the chaos that was my mother and home life: calm, patient, and loving. In my eyes, and in my grandmother’s eyes, that was the only "mother" bond that mattered. We have reflected many times about the difference between the two. Mac has brought out memories I had burried out of survival. Not just the bad ones. The amazing ones also, like things that happened at grandparents day at school way back in the day. 
 
-**And holy shit, did I get good at masking.** I was replaying social interactions from three years ago and narrating every single thing I was doing "wrong." I tried the meds—the "Anxiety" and "Depression" pills that were like putting a tiny Band-Aid on a gushing wound. They never reached the actual "Operating System" underneath. 
+
+I daily was perfecting my mask. **And holy shit, did I get good at masking.** I was replaying social interactions from three years ago and narrating every single thing I was doing "wrong." Scipting and mimicing my peers, family and even people on tv and in movies. The perfection really manifested into my adult life. 
 
 I was living with **Rejection Sensitive Dysphoria (RSD)** before I knew the word for it. If I forgot my homework, I wasn't just "forgetful"—I was paralyzed by the fear of the hell-storm that followed. I was constantly doing damage control for a life I didn't even have the manual for.
 
