@@ -96,9 +96,9 @@ That first morning with my meds—I woke up, ate some breakfast and took my firs
 
 I called my oldest son and we had the most amazing conversation. I cried. I apologized for not having the tools to understand his ADHD. I had the most amazing conversations with my middle son with Brian. **LIFE CHANGING.** The meds didn't diminish who I am, they helped turn down the noise so I could be exactly who I am. Even at the end of the day, the noise is still turned down. I'm sleeping better. I've started taking courses, learning new things.
 
-And the Fibromyalgia flare ups? (Knocks on every piece of wood) I have not had one. I am at my baseline. The connection between the mind and body is remarkable. I’m not stuck in bed, and they don't last for weeks. 
+And the Fibromyalgia flare ups? (Knocks on every piece of wood) I have not had one. I am at my baseline. The connection between the mind and body is remarkable. Dont get me wrong. I have had days where I am above my base line but I’m not stuck in bed, and they don't last for weeks. 
 
-I’m not apologizing anymore. The noise is finally being turned down, and I’m the one with the microphone.
+I’m **NOT** apologizing anymore. The noise is finally being turned down, and I’m the one with the microphone.
 
 ---
 
@@ -106,6 +106,5 @@ I’m not apologizing anymore. The noise is finally being turned down, and I’m
 This blog is a deep dive into my life and what it’s actually like living with the **NeuroSpicy Salsa**. We’re going to get into:
 * **The "Before and After":** Life before and after the right diagnosis and treatment.
 * **The Corporate Jungle:** Navigating a career and the job market when you don't fit the "standard" mold.
-* **Home Life & Parenting:** Raising three neurodivergent boys while navigating chronic pain and my own internal 50-person shouting match.
-
+* **Home Life & Parenting:** Raising three neurodivergent boys while navigating chronic pain and my own personal journey. 
 Stick around—it’s about to get even spicier.
