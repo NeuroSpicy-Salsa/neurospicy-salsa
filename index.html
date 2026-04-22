@@ -12,18 +12,37 @@ layout: compress
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Protest+Revolution&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
     <link rel="stylesheet" type="text/css" href="css/normalize.css"/>
     <link rel="stylesheet" type="text/css" href="css/modern-blog.css"/>
 
     <style>
         /* Ensures the footer doesn't bleed into the blog post background */
-   body.view-contents #manifesto-footer {
-    display: none !important;
-    visibility: hidden !important;
-    height: 0 !important;
-    overflow: hidden !important;
-}
+        body.view-contents #manifesto-footer {
+            display: none !important;
+            visibility: hidden !important;
+            height: 0 !important;
+            overflow: hidden !important;
+        }
+
+        /* FORCE THE CLOSE BUTTON TO BE VISIBLE */
+        .card__btn-close {
+            color: #ff4500 !important; /* Spicy Red-Orange */
+            position: absolute !important;
+            top: 25px !important;
+            right: 25px !important;
+            font-size: 2em !important;
+            cursor: pointer !important;
+            z-index: 1000 !important;
+            opacity: 1 !important;
+            visibility: visible !important;
+            display: block !important;
+        }
+
+        .card__btn-close:hover {
+            color: #000 !important;
+        }
 
         .header {
             padding: 4em 5% 3em;
@@ -31,18 +50,6 @@ layout: compress
             align-items: center; 
             justify-content: center;
             gap: 40px; 
-        }
-
-        .site-logo {
-            max-width: 320px; 
-            height: auto;
-            flex-shrink: 0; 
-        }
-
-        .text-lockup {
-            display: flex;
-            flex-direction: column;
-            text-align: left; 
         }
 
         .header h1 {
@@ -55,21 +62,9 @@ layout: compress
             line-height: 0.9;
         }
 
-        .tagline {
-            font-family: 'Protest Revolution', sans-serif !important;
-            font-size: 1.2em; 
-            letter-spacing: 1.5px;
-            color: #000000;
-            opacity: 0.85;
-            text-transform: uppercase;
-            margin-top: 5px; 
-        }
-
         @media (max-width: 850px) {
             .header { flex-direction: column; text-align: center; gap: 20px; }
-            .text-lockup { text-align: center; }
             .header h1 { font-size: 3.5em; }
-            .site-logo { max-width: 220px; }
         }
 
         .body { font-family: 'Open Sans', sans-serif !important; }
@@ -82,59 +77,53 @@ layout: compress
         <img src="https://neurospicy-salsa.github.io/neurospicy-salsa/img/SpicySalsa.png" alt="Logo" style="width: 300px; min-width: 250px; height: auto; margin: 0; display: block;">
         
         <div style="text-align: left; margin: 0 0 0 -40px;">
-            
             <h1 style="margin: 0; line-height: 1; padding: 0;">NeuroSpicy Salsa</h1>
             <p style="margin: 8px 0 0 0; color: #777778; font-size: .95em; text-transform: uppercase; letter-spacing: 2px;">Extra Heat, Better Seasoning. No Apologies.</p>
             
             <div style="margin-top: 15px; display: flex; gap: 15px;">
-                
                 <a href="https://www.tiktok.com/@neurospicy.salsa" target="_blank" title="Follow NeuroSpicy Salsa" style="text-decoration: none;">
                     <img src="img/Tik.png" alt="TikTok Page" style="width: 45px; height: 45px; display: block; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
                 </a>
-
                 <a href="https://www.tiktok.com/t/ZT9NNegdWDbWr-mgHFX/" target="_blank" title="Watch My TikTok Vault" style="text-decoration: none;">
                     <img src="img/tiktokcollection.png" alt="TikTok Collection" style="width: 45px; height: 45px; display: block; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
                 </a>
-
             </div>
-
         </div>
     </div>
 </header>
 
-    <div class="content">
-        <div class="pattern pattern--hidden"></div>
-        <div class="wrapper">
-            {% for post in site.posts %}
-            <div class="card" data-id="{{ post.id }}">
-                <div class="card__container card__container--closed">
-                    <svg class="card__image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1200" preserveAspectRatio="xMidYMid slice">
-                        <defs>
-                            <clipPath id="{{ post.id }}-clip-path">
-                                <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
-                            </clipPath>
-                        </defs>
-                        <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200" xlink:href="{{ post.image }}"></image>
-                    </svg>
-                    <div class="card__content">
-                        <i class="card__btn-close fa fa-times"></i>
-                        <div class="card__caption">
-                            <h2 class="card__title">{{ post.title }}</h2>
-                            <p class="card__subtitle">{{ post.subtitle }}</p>
+<div class="content">
+    <div class="pattern pattern--hidden"></div>
+    <div class="wrapper">
+        {% for post in site.posts %}
+        <div class="card" data-id="{{ post.id }}">
+            <div class="card__container card__container--closed">
+                <svg class="card__image" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1200" preserveAspectRatio="xMidYMid slice">
+                    <defs>
+                        <clipPath id="{{ post.id }}-clip-path">
+                            <polygon class="clip" points="0,1200 0,0 1920,0 1920,1200"></polygon>
+                        </clipPath>
+                    </defs>
+                    <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200" xlink:href="{{ post.image }}"></image>
+                </svg>
+                <div class="card__content">
+                    <i class="card__btn-close fas fa-times"><span>×</span></i>
+                    <div class="card__caption">
+                        <h2 class="card__title">{{ post.title }}</h2>
+                        <p class="card__subtitle">{{ post.subtitle }}</p>
+                    </div>
+                    <div class="card__copy">
+                        <div class="meta">
+                            <img class="meta__avatar" src="{{ post.avatar }}"/>
+                            <span class="meta__author">{{ post.author }}</span>
+                            <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
                         </div>
-                        <div class="card__copy">
-                            <div class="meta">
-                                <img class="meta__avatar" src="{{ post.avatar }}"/>
-                                <span class="meta__author">{{ post.author }}</span>
-                                <span class="meta__date">{{ post.date | date: "%Y-%m-%d" }}</span>
-                            </div>
-                            {{ post.content }}
-                        </div>
+                        {{ post.content }}
                     </div>
                 </div>
             </div>
-            {% endfor %}
-        </div> 
+        </div>
+        {% endfor %}
     </div> 
 </div> 
 
@@ -145,9 +134,6 @@ layout: compress
     <p style="font-family: 'Open Sans', sans-serif; font-style: italic; font-size: 0.9em; color: #666; margin-bottom: 15px;">
         Embracing differences only elevates those around you and yourself.
     </p>
-    <span style="font-family: 'Open Sans', sans-serif; font-weight: 800; text-transform: uppercase; font-size: 0.6em; letter-spacing: 3px; opacity: 0.3;">
-        
-    </span>
 </footer>
 
 <script src="js/vendors/trianglify.min.js"></script>
