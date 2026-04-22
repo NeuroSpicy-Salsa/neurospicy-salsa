@@ -60,9 +60,11 @@ That experience didn’t just teach me how to hide things; it reinforced a despe
 ---
 
 ### The OS Finally Crashes: Fibromyalgia and Burnout
-That tug-of-war followed me into adulthood. I ended up in toxic relationships that were mirrors of my childhood. Control, manipulation, and mental "beatings" made masking feel like a survival requirement. I would exhaust every fucking ounce of my energy trying to manage their emotions just to avoid the next explosion. Always thinking the people I cared about most were mad at me, disappointed, annoyed or didn't love me anymore.  
+That tug-of-war followed me into adulthood. I ended up in toxic relationships that were mirrors of my childhood. Control, manipulation, and mental "beatings" made masking feel like a survival requirement. I would exhaust every fucking ounce of my energy trying to manage their emotions just to avoid the next explosion. Always thinking the people I cared about most were mad at me, disappointed, annoyed or didn't love me anymore. 
 
-The number of years being treated for "Anxiety" and "Depression" never helped. I think back to this and think, it touched the very surface but only made me think, “This isn't working, I just need to pretend I’m ok.” Even through therapy/counseling I could not fully work through trauma because the **NOISE** was so damn loud. 
+This self enivorment led to poor choices, hard lessosns learned. I didnt realize it at the time but each event would just lead to a deeper understanding of myself. It also meant dealing with more tramua and compounding on what was already there. But I made it through. 
+
+The number of years being treated for "Anxiety" and "Depression" never helped. I think back to this and think, it touched the very surface but only made me think, “This isn't working, I just need to pretend I’m ok.” Even through therapy/counseling I could not fully work through trauma because the **NOISE** was so damn loud. I hated taking medications because they didn't ever seem to work. 
 
 Then, my kids were born. When my oldest two boys were diagnosed with ADHD, I saw the patterns. I was like wait a dang minute. The dots started connecting but there was still something else. When my youngest, Jackson, was diagnosed as Autistic, the instructions were finally translated. The dots all connected, the little girl inside along with the adult finally felt seen. It was a **HOLY SHIT MAL** moment. But even then, the Imposter Syndrome was a bitch. A BIG BITCH! 
 
