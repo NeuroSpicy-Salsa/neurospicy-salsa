@@ -7,7 +7,7 @@ author: Mal
 image: "img/2026-04-21-welcome-to-the-hub.png"
 avatar: "img/mal1.jpg"
 ---
-<p style="font-size: 1.5em; line-height: 1.4; color: #333;">
+
 I spent over 40 years living in a room where 50 people were talking, some screaming all at once—half of them strangers, the other half people I love—and they all started shouting the second I tried to focus. That’s my ADHD. It’s 36 songs playing at the same time while my internal narration screams in the corner about the Amazon returns I forgot, the chores I didn’t do, and the doctor’s appointment I still haven’t made. 
 
 </p>
