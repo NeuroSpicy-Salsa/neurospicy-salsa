@@ -46,22 +46,27 @@ layout: compress
         }
 
         /* 2. THE AVATAR SIZE FIX (50px Goldilocks Size) */
-        .meta__avatar {
-            width: 50px !important;
-            height: 50px !important;
+      /* 2. THE AVATAR SIZE FIX (Forcing 70px with specific targeting) */
+        .card__copy .meta img.meta__avatar {
+            width: 70px !important;
+            height: 70px !important;
+            max-width: 70px !important;
+            max-height: 70px !important;
             border-radius: 50% !important;
-            margin-right: 12px !important;
-            border: 2px solid #ff4500 !important;
+            margin-right: 15px !important;
+            border: 3px solid #ff4500 !important;
             object-fit: cover !important;
-            vertical-align: middle !important;
             display: inline-block !important;
+            vertical-align: middle !important;
         }
 
-        .meta__author, .meta__date {
+        .card__copy .meta .meta__author, 
+        .card__copy .meta .meta__date {
             display: inline-block !important;
             vertical-align: middle !important;
-            line-height: 50px !important; /* Matches avatar height for perfect centering */
-            font-size: 1em !important;
+            line-height: 70px !important; 
+            font-size: 1.2em !important;
+            font-weight: 600 !important;
         }
 
         /* 3. HEADER & LOGO LAYOUT */
