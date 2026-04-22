@@ -5,6 +5,7 @@ subtitle: "Meet Mal."
 date: 2026-04-21
 author: Mal
 image: "img/2026-04-21-welcome-to-the-hub.png"
+avatar: "img/mal1.jpg"
 ---
 
 ### Welcome to the Chaos. Grab a Chip.
