@@ -69,9 +69,9 @@ The number of years being treated for "Anxiety" and "Depression" never helped. I
 
 Then, my kids were born. When my oldest two boys were diagnosed with ADHD, I saw the patterns. I was like wait a dang minute. The dots started connecting but there was still something else. When my youngest, Jackson, was diagnosed as Autistic, the instructions were finally translated. The dots all connected, the little girl inside along with the adult finally felt seen. It was a **HOLY SHIT MAL** moment. But even then, the Imposter Syndrome was a bitch. A BIG BITCH! 
 
-In all of this I had two major surgeries. Ovarian Cancer had my number and liked me. 2004 while pregnant with my first I had a 12lb tumor removed that had taken over my left ovary. I was 18 weeks pregnant with my oldest. Then 2017 it showed up again on the right side. This time I had a full hysterectomy—remaining ovary, uterus, cervix all gone. I was still young but I chose to not face that monster again. 
+In all of this I had two major surgeries. Ovarian Cancer had my number and liked me. 2004 while pregnant with my first I had a 12lb tumor removed that had taken over my left ovary, I was 18 weeks pregnant with my oldest. Then 2017 it showed up again on the right side. This time I had a full hysterectomy—remaining ovary, uterus, cervix all gone. I was still young but I chose to not face that monster again. 
 
-Eventually, the years of internalizing everything—the burnout, the masking, the suppressed "Why?", the noise, and well, menopause—finally broke my physical body. During COVID, I was diagnosed with **Fibromyalgia**. Suddenly, it wasn't just the mental noise; it was constant, grinding physical pain.
+Eventually, the years of internalizing everything—the burnout, the masking, the lack of structure, routine, the suppressed "Why?", the noise, the overstimulation & no outlit, and well, menopause—finally broke my physical body. During COVID, I was diagnosed with **Fibromyalgia**. Suddenly, it wasn't just the mental noise; it was constant, grinding physical pain.
 
 My grandparents, after Jackson’s diagnosis and the older boys, encouraged me to dive into my own connections to ADHD and Autism. It wasn’t until after they passed that I finally dove in. The process of self discovery started way before I started the hunt for a doctor that would listen and hear me. 
 
