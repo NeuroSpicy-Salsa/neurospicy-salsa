@@ -99,6 +99,8 @@ That first morning with my meds—I woke up, ate some breakfast and took my firs
 
 I called my oldest son and we had the most amazing conversation. I cried. I apologized for not having the tools to understand his ADHD. I had the most amazing conversations with my middle son with Brian. **LIFE CHANGING.** The meds didn't diminish who I am, they helped turn down the noise so I could be exactly who I am. Even at the end of the day, the noise is still turned down. I'm sleeping better. I've started taking courses, learning new things.
 
+The Autsitc side is front and center. Its no longer burried, in the shadows. Its no longer craving the quiet, the structure, the focus. Its got all of that. **I HAVE ALL OF THAT!!** I'm finding day by day that the burn out is disapating and I am recharging. That battery was beyond drained. Running on fumes. But now I'm gaining back that battery power. I'm able to keep things organized not just externally but internally. The noise, experiences and trauma, it's all organized in what I see as index card boxes. I can look at them, process and then put them the fuck away if I want to. I still can feel stress and disfunction but It doesnt consume me. Im able to enjoy my interests in ways I couldnt before. Before it was to help drown out the ADHD side of things. I've started investing in myself. Taking courses, learning new skills. I know my limits and when to call it a day. I can communicate my feelings better with my loved ones. Theres still a lot of growth to come not just as me but as a mother, a spouse and a friend. I cant wait to dive into all that irl and then document it here. 
+
 And the Fibromyalgia flare ups? (Knocks on every piece of wood) I have not had one. I am at my baseline. The connection between the mind and body is remarkable. Dont get me wrong. I have had days where I am above my base line but I’m not stuck in bed, and they don't last for weeks. 
 
 I’m **NOT** apologizing anymore. The noise is finally being turned down, and I’m the one with the microphone.
@@ -107,7 +109,7 @@ I’m **NOT** apologizing anymore. The noise is finally being turned down, and I
 
 ### What’s Next?
 This blog is a deep dive into my life and what it’s actually like living with the **NeuroSpicy Salsa**. We’re going to get into:
-* **The "Before and After":** Life before and after the right diagnosis and treatment.
+* **The "Before and After":** Life before and after the right diagnosis and treatment. 
 * **The Corporate Jungle:** Navigating a career and the job market when you don't fit the "standard" mold.
 * **Home Life & Parenting:** Raising three neurodivergent boys while navigating chronic pain and my own personal journey. 
-Stick around—it’s about to get even spicier.
+The filter is officially off. Survival was the skill; Grab a chip and settle in. 🌶️
