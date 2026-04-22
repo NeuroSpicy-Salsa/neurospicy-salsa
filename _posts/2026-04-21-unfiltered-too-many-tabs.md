@@ -5,7 +5,7 @@ subtitle: "Survival was a Skill; Living is the Goal"
 date: April 22, 2026
 author: Mal
 image: "img/2026-04-21-welcome-to-the-hub.png"
-avatar: "img/meandgrandma.jpg
+avatar: "img/mal1.jpg"
 ---
 
 The Origin of the Salsa
