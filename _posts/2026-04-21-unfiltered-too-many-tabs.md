@@ -8,7 +8,7 @@ image: "img/2026-04-21-welcome-to-the-hub.png"
 avatar: "img/mal1.jpg"
 ---
 
-> I spent over 40 years living in a room where 50 people were talking, some screaming all at once—half of them strangers, the other half people I love—and they all started shouting the second I tried to focus. That’s my ADHD. It’s 36 songs playing at the same time while my internal narration screams in the corner about the Amazon returns I forgot, the chores I didn’t do, and the doctor’s appointment I still haven’t made. 
+I spent over 40 years living in a room where 50 people were talking, some screaming all at once—half of them strangers, the other half people I love—and they all started shouting the second I tried to focus. That’s my ADHD. It’s 36 songs playing at the same time while my internal narration screams in the corner about the Amazon returns I forgot, the chores I didn’t do, and the doctor’s appointment I still haven’t made. 
 
 But then there’s the Autistic side. That’s the part of me standing in the middle of all that noise, desperately craving a silent, rigid, perfectly organized room where nothing ever changes. It’s the part that forces me into the "replay booth," obsessively dissecting every interaction from three hours—or three years—ago, analyzing every word I said and every face I made to see where I "failed."
 
