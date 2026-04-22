@@ -26,24 +26,45 @@ layout: compress
             overflow: hidden !important;
         }
 
-        /* FORCE THE CLOSE BUTTON TO BE VISIBLE */
+        /* 1. FORCE THE CLOSE BUTTON TO BE VISIBLE & SINGLE */
         .card__btn-close {
-            color: #ff4500 !important; /* Spicy Red-Orange */
+            color: #ff4500 !important; 
             position: absolute !important;
             top: 25px !important;
             right: 25px !important;
-            font-size: 2em !important;
+            font-size: 2.2em !important;
             cursor: pointer !important;
             z-index: 1000 !important;
             opacity: 1 !important;
             visibility: visible !important;
             display: block !important;
+            font-style: normal !important;
         }
 
         .card__btn-close:hover {
             color: #000 !important;
         }
 
+        /* 2. THE AVATAR SIZE FIX (50px Goldilocks Size) */
+        .meta__avatar {
+            width: 50px !important;
+            height: 50px !important;
+            border-radius: 50% !important;
+            margin-right: 12px !important;
+            border: 2px solid #ff4500 !important;
+            object-fit: cover !important;
+            vertical-align: middle !important;
+            display: inline-block !important;
+        }
+
+        .meta__author, .meta__date {
+            display: inline-block !important;
+            vertical-align: middle !important;
+            line-height: 50px !important; /* Matches avatar height for perfect centering */
+            font-size: 1em !important;
+        }
+
+        /* 3. HEADER & LOGO LAYOUT */
         .header {
             padding: 4em 5% 3em;
             display: flex;
@@ -107,7 +128,7 @@ layout: compress
                     <image clip-path="url(#{{ post.id }}-clip-path)" width="1920" height="1200" xlink:href="{{ post.image }}"></image>
                 </svg>
                 <div class="card__content">
-                    <i class="card__btn-close fas fa-times"><span>×</span></i>
+                    <i class="card__btn-close fas fa-times"></i>
                     <div class="card__caption">
                         <h2 class="card__title">{{ post.title }}</h2>
                         <p class="card__subtitle">{{ post.subtitle }}</p>
