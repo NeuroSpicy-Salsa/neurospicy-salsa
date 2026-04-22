@@ -82,7 +82,7 @@ I wasn’t "nothing." I wasn’t "broken." I was “ME!” Exactly who I was sup
 ### The Man Who Handed Me the Chips
 After decades of toxic relationships, I finally broke away. And for the first time, the world didn't end. In fact, it started to open up. I found myself in a career where I was finally supported. Instead of being punished for my "quirks," I was in an environment that allowed me to manage them. I was succeeding, not by being "normal," but by being me.
 
-But the biggest shift happened at home. I found love in a man who we will call,💓**Brine**💓 (IYKYK), he didn't just accept me; he genuinely loved the person I had spent 40 years trying to hide. He is supportive, encouraging, and patient in a way I didn't know existed. He doesn’t just love me—he loves my kids, supporting their neurodiversity and my own with a steadiness that has helped me heal.
+But the biggest shift happened at home. I found love in a man who we will call,💓**Brine**💓 (IYKYK), he didn't just accept me; he genuinely loved the person I had spent 40 years trying to hide. He is supportive, encouraging, and patient in a way I didn't know existed. He doesn’t just love me—he loves our kids, supporting their neurodiversity and my own with a steadiness that has helped me heal.
 
 Even before I had the official "AuDHD" label, he understood my limits. And when my RSD flares up—when I ask him ten times a day if he’s mad at me—he doesn't get frustrated. He just reassures me. Every single time. He didn't see me as broken. He saw me as beautiful, strong, and resilient. 
 
