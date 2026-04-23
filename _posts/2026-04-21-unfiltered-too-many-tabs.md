@@ -105,7 +105,7 @@ The noise, experiences and trauma, it's all organized in what I see as index car
 
 And the Fibromyalgia flare ups? (Knocks on every piece of wood) I have not had one. I am at my baseline. The connection between the mind and body is remarkable. Don't get me wrong. I have had days where I am above my base line but I’m not stuck in bed, and they don't last for weeks. 
 
-I think it's natural to wish you didn't have to go through some experiences. I do. But I also love who I am. Wow, saying that and meaning it, it hits different. 
+I think it's natural to wish you didn't have to go through some experiences. I do. But I also love who I am. Wow, saying that and meaning it, it hits different. I did my best with the tools I had or created, the knowledge I had at the time. Regardless of tirals I went through It led me to where I am today. With an amazing family, love thats unconditional and a new sense of self discovery and happiness. 
 
 I’m **NOT** apologizing anymore. The noise is finally being turned down, and I’m the one with the microphone.
 
