@@ -71,7 +71,7 @@ Then, my kids were born. When my oldest two boys were diagnosed with ADHD, I saw
 
 In all of this I had two major surgeries. Ovarian Cancer had my number and liked me. 2004 while pregnant with my first I had a 12lb tumor removed that had taken over my left ovary, I was 18 weeks pregnant with my oldest. Then 2017 it showed up again on the right side. This time I had a full hysterectomy—remaining ovary, uterus, cervix all gone. I was still young but I chose to not face that monster again. 
 
-Eventually, the years of internalizing everything—the burnout, the masking, the lack of structure, routine, the suppressed "Why?", the noise, the overstimulation & no outlit, and well, menopause—finally broke my physical body. During COVID, I was diagnosed with **Fibromyalgia**. Suddenly, it wasn't just the mental noise; it was constant, grinding physical pain.
+Eventually, the years of internalizing everything—the burnout, the masking, the lack of structure, routine, the suppressed "Why?", the noise, the overstimulation & no outlet, and well, menopause—finally broke my physical body. During COVID, I was diagnosed with **Fibromyalgia**. Suddenly, it wasn't just the mental noise; it was constant, grinding physical pain.
 
 My grandparents, after Jackson’s diagnosis and the older boys, encouraged me to dive into my own connections to ADHD and Autism. It wasn’t until after they passed that I finally dove in. The process of self discovery started way before I started the hunt for a doctor that would listen and hear me. 
 
@@ -97,7 +97,7 @@ That first morning with my meds—I woke up, ate some breakfast and took my firs
 
 **IT WAS QUIET.** THE NOISE, THE CONSTANT NARRATION, THE ENDLESS LISTS OVER AND OVER AND OVER was gone. I cried. Like actual tears. Saying I had lived my whole life in super duper hard mode is an understatement. 
 
-I called my oldest son and we had the most amazing conversation. I cried. I apologized for not having the tools to understand his ADHD. I had the most amazing conversations with my middle son with Brian. **LIFE CHANGING.** The meds didn't diminish who I am, they helped turn down the noise so I could be exactly who I am. Even at the end of the day, the noise is still turned down. I'm sleeping better. I've started taking courses, learning new things.
+I called my oldest son and we had the most amazing conversation. I cried. I apologized for not having the tools to understand his ADHD. I had the most amazing conversations with my middle son with Brine. <i>**LIFE CHANGING.**<i> The meds didn't diminish who I am, they helped turn down the noise so I could be exactly who I am. Even at the end of the day, the noise is still turned down. I'm sleeping better. I've started taking courses, learning new things.
 
 The Autsitc side is front and center. It's no longer burried, in the shadows. It's no longer craving the quiet, the structure, the focus. It's got all of that. **I HAVE ALL OF THAT!!** I'm finding day by day that the burn out is disapating and I am recharging. That battery was beyond drained. Running on fumes. But now I'm gaining back that battery power.I'm able to keep things organized not just externally but internally. 
 
