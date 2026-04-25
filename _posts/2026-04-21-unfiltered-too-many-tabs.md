@@ -105,7 +105,7 @@ The noise, experiences and trauma, it's all organized in what I see as index car
 
 And the Fibromyalgia flare ups? (Knocks on every piece of wood) I have not had one. I am at my baseline. The connection between the mind and body is remarkable. Don't get me wrong. I have had days where I am above my base line but I’m not stuck in bed, and they don't last for weeks. 
 
-I think it's natural to wish you didn't have to go through some experiences. I do. But I also love who I am. Wow, saying that and meaning it, it hits different. I did my best with the tools I had or created, the knowledge I had at the time. Regardless of tirals I went through It led me to where I am today. With an amazing family, love thats unconditional and a new sense of self discovery and happiness. 
+I think it's natural to wish you didn't have to go through some experiences. I do. But I also love who I am. Wow, saying that and meaning it, it hits different. I did my best with the tools I had or created, the knowledge I had at the time. Regardless of the trials I went through, It led me to where I am today. With an amazing family, love thats unconditional, a new sense of self discovery, a deeper understanding of my kids and raw happiness. Is my life 'PERFECT'? That depends on your definition of perfect. Perfect is abstract in nature, it’s a concept. In the grand overview I could personally say yes. But.... There is still so much room for growth, opportunities, new experiences. I love my life, even with the parts I am trying to improve and goals I want to reach. I am excited for my family, for our future. 
 
 I’m **NOT** apologizing anymore. The noise is finally being turned down, and I’m the one with the microphone.
 
