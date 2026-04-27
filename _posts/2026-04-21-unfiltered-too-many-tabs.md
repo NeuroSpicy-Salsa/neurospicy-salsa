@@ -91,7 +91,7 @@ He doesn’t try to change the "NeuroSpicy Salsa 🌶️"; he just helps me enjo
 ---
 
 ### Hard Mode: Deactivated
-I finally found a doctor that would hear me. A therapist that would be supportive and easy to talk to. There it was: **ADHD (Inattentive type) and Autism Spectrum Disorder.** (I am not a fan of calling it a disorder). 
+I finally found a doctor that would hear me, and a therapist that would be supportive and easy to talk to. There it was: **ADHD (Inattentive type) and Autism Spectrum Disorder.** (I am not a fan of calling it a disorder). 
 
 That first morning with my meds—I woke up, ate some breakfast and took my first pill. About 30-40 minutes later as I was scrolling TikTok, I stopped scrolling. Closed the app. 
 
@@ -101,7 +101,7 @@ I called my oldest son and we had the most amazing conversation. I cried. I apol
 
 The Autsitc side is front and center. It's no longer burried, in the shadows. It's no longer craving the quiet, the structure, the focus. It's got all of that. **I HAVE ALL OF THAT!!** I'm finding day by day that the burn out is disapating and I am recharging. That battery was beyond drained. Running on fumes. But now I'm gaining back that battery power.I'm able to keep things organized not just externally but internally. 
 
-The noise, experiences and trauma, it's all organized in what I see as index card boxes. I can look at them, process and then put them the fuck away if I want to. I still can feel stress and dysfunction but it doesnt consume me. Im able to enjoy my interests in ways I couldnt before. Before it was to help drown out the ADHD side of things. I've started investing in myself. Taking courses, learning new skills. I know my limits and when to call it a day. I can communicate my feelings better with my loved ones. Theres still a lot of growth to come not just as me but as a mother, a spouse, and a friend. I can't wait to dive into all that irl and then document it here. 
+The noise, experiences and trauma, it's all organized in what I see as index card boxes. I can look at them, process and then put them the fuck away if I want to. I still can feel stress and dysfunction but it doesnt consume me. Im able to enjoy my interests in ways I couldnt before. Before it was to help drown out the ADHD side of things. I've started investing in myself. Taking courses, learning new skills. I'm able to process some of the trauma and then put it away. I know my limits and when to call it a day. I can communicate my feelings better with my loved ones. Theres still a lot of growth to come not just as me but as a mother, a spouse, and a friend. I can't wait to dive into all that irl and then document it here. 
 
 And the Fibromyalgia flare ups? (Knocks on every piece of wood) I have not had one. I am at my baseline. The connection between the mind and body is remarkable. Don't get me wrong. I have had days where I am above my base line but I’m not stuck in bed, and they don't last for weeks. 
 
